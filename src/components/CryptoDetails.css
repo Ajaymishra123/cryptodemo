@@ -1,0 +1,42 @@
+.crypto-details {
+      padding: 20px;
+    }
+
+    .crypto-details h2 {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .chart-container {
+      width: 100%;
+      height: 500px; /* Adjust as needed */
+      margin-bottom: 20px;
+    }
+
+    .details-info p {
+      margin: 10px 0;
+      font-size: 16px;
+    }
+
+    .positive {
+      color: green;
+    }
+
+    .negative {
+      color: red;
+    }
+
+    .back-button {
+      padding: 10px 20px;
+      margin-bottom: 10px;
+      border: none;
+      border-radius: 5px;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .back-button:hover {
+      background-color: #0056b3;
+    }
